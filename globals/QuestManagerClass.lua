@@ -1,0 +1,2 @@
+---@class QuestManagerClass
+local QuestManager = {}

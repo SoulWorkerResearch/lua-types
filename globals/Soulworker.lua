@@ -1,0 +1,52 @@
+---@class SoulworkerClass
+---
+---@field Character_Type string
+---@field Monster_Type string
+---@field Npc_Type string
+---
+---@field FSMSTATES_NONE number
+---@field FSMSTATES_WAIT number
+---@field FSMSTATES_PATROL number
+---@field FSMSTATES_SELECT_ACTION number
+---@field FSMSTATES_BATTLE_WAIT number
+---@field FSMSTATES_BATTLE_MOVE number
+---@field FSMSTATES_GAZE number
+---@field FSMSTATES_MOVE number
+---@field FSMSTATES_ATTACK number
+---@field FSMSTATES_ATTACK_SKILL1 number
+---@field FSMSTATES_ATTACK_SKILL2 number
+---@field FSMSTATES_ATTACK_SKILL3 number
+---@field FSMSTATES_ATTACK_SKILL4 number
+---@field FSMSTATES_ATTACK_SKILL5 number
+---@field FSMSTATES_ATTACK_SKILL6 number
+---@field FSMSTATES_ATTACK_SKILL7 number
+---@field FSMSTATES_ATTACK_SKILL8 number
+---@field FSMSTATES_ATTACK_SKILL9 number
+---@field FSMSTATES_ATTACK_SKILL10 number
+---@field FSMSTATES_COMMON_ACTION1 number
+---@field FSMSTATES_COMMON_ACTION2 number
+---@field FSMSTATES_COMMON_ACTION3 number
+---@field FSMSTATES_COMMON_ACTION4 number
+---@field FSMSTATES_COMMON_ACTION5 number
+---@field FSMSTATES_COMMON_ACTION6 number
+---@field FSMSTATES_COMMON_ACTION7 number
+---@field FSMSTATES_COMMON_ACTION8 number
+---@field FSMSTATES_COMMON_ACTION9 number
+---@field FSMSTATES_COMMON_ACTION10 number
+---@field FSMSTATES_RETURN number
+---@field FSMSTATES_SUCIDE number
+---@field FSMSTATES_RECOVERY number
+---@field FSMSTATES_TRACE_MOVE number
+---@field FSMSTATES_REQUESTHELP number
+---@field FSMSTATES_REQUEST_SUPPORT number
+---@field FSMSTATES_RUNAWAY number
+---@field FSMSTATES_BEFORESTATE number
+---@field FSMSTATES_SWITCH_STATE1 number
+---@field FSMSTATES_SWITCH_STATE2 number
+---@field FSMSTATES_PROTECTION number
+---@field FSMSTATES_PROTECT_MOVE number
+---@field FSMSTATES_PROTECT_GAZE number
+---@field FSMSTATES_PROTECT_WAIT number
+---@field FSMSTATES_MAX number
+
+Soulworker = {}

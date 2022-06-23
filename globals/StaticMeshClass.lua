@@ -1,0 +1,2 @@
+---@class StaticMeshClass
+local StaticMesh = {}
