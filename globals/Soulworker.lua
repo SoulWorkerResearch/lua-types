@@ -48,5 +48,7 @@
 ---@field FSMSTATES_PROTECT_GAZE number
 ---@field FSMSTATES_PROTECT_WAIT number
 ---@field FSMSTATES_MAX number
-
 Soulworker = {}
+
+---@return any
+function Soulworker:GetHelper() end

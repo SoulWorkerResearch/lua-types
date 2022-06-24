@@ -2,8 +2,7 @@
 
 Just typing for scripts
 
-> Written for [sumneko.lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) extension for VSCode
-> Install it before do anything
+> Written for [sumneko.lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) extension for VSCode (install it before do anything)
 
 ## 👀 How to
 
